@@ -2,11 +2,13 @@
 
 <h3 align='center'>Front-End Developer y Diseñadora Gráfica :sparkles:</h3>
 
+
 :eyeglasses: Aprendiz de todo lo que mundo pueda enseñarme.
 
 :mortar_board: Estudiante de Laboratoria.
   
 :heart_eyes_cat: Amante de los Gatos.
+
 
 #### Lenguajes y Herramientas
 <p align="left">
