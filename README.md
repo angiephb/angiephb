@@ -5,7 +5,7 @@
 
 :eyeglasses: Aprendiz de todo lo que mundo pueda enseñarme.
 
-:mortar_board: Estudiante de Laboratoria.
+:mortar_board: Egresada de Laboratoria.
   
 :heart_eyes_cat: Amante de los Gatos.
 
